@@ -1,0 +1,14 @@
+E:\C#\SteamAplication-master\bin\Debug\SteamAplication.exe.config
+E:\C#\SteamAplication-master\bin\Debug\SteamAplication.exe
+E:\C#\SteamAplication-master\bin\Debug\SteamAplication.pdb
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.csproj.AssemblyReference.cache
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.Form1.resources
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.Form2.resources
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.Form3.resources
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.Properties.Resources.resources
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.csproj.GenerateResource.cache
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.csproj.CoreCompileInputs.cache
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.exe
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.pdb
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.Form4.resources
+E:\C#\SteamAplication-master\obj\Debug\SteamAplication.Form5.resources
