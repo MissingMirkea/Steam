@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace SteamAplication
 {
-    public partial class Form6 : Form
+    public partial class Form7 : Form
     {
-        public Form6()
+        public Form7()
         {
             InitializeComponent();
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+
         }
 
-        private void Form6_Load(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

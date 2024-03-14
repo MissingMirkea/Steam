@@ -15,6 +15,7 @@ namespace SteamAplication
         public Form5()
         {
             InitializeComponent();
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -22,6 +23,11 @@ namespace SteamAplication
             this.Hide();
             Form1 f1 = new Form1();
             f1.Show();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

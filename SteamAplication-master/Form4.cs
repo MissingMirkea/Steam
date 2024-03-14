@@ -26,8 +26,8 @@ namespace SteamAplication
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 f1 = new Form1();
-            f1.Show();
+            Form7 f7 = new Form7();
+            f7.Show();
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -43,6 +43,13 @@ namespace SteamAplication
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 f1 = new Form1();
+            f1.Show();
         }
     }
 }
