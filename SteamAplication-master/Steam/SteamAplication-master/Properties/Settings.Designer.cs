@@ -46,5 +46,16 @@ namespace SteamAplication.Properties {
                 this["CheckStatus"] = value;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-UBC4JA8\\SQLEXPRESS;Initial Catalog=STEAM;Integrated Security=" +
+            "True;TrustServerCertificate=True")]
+        public string STEAM {
+            get {
+                return ((string)(this["STEAM"]));
+            }
+        }
     }
 }

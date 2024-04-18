@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|c:\\users\\mirko\\documents\\github\\steam\\steamaplication-master\\steam\\steamaplication-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C08C77-8447-4863-9033-2EC4C1EB0991}|SteamAplication.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:54:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:08:42.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:12:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:08:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:35:44.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:08:46.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:20:47.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:08:45.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:08:47.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\Mirko\\Documents\\GitHub\\Steam\\SteamAplication-master\\Steam\\SteamAplication-master\\Form6.cs [Design]",
+              "RelativeToolTip": "Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:08:48.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

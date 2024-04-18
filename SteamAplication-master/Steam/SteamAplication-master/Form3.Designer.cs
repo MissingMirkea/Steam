@@ -136,6 +136,7 @@
             this.textBox3.Location = new System.Drawing.Point(240, 268);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
+            this.textBox3.PasswordChar = '*';
             this.textBox3.Size = new System.Drawing.Size(268, 20);
             this.textBox3.TabIndex = 7;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
@@ -144,11 +145,13 @@
             // 
             this.textBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(53)))), ((int)(((byte)(60)))));
             this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox4.CharacterCasing = System.Windows.Forms.CharacterCasing.Lower;
             this.textBox4.Font = new System.Drawing.Font("Verdana", 12F);
             this.textBox4.ForeColor = System.Drawing.Color.White;
             this.textBox4.Location = new System.Drawing.Point(240, 334);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
+            this.textBox4.PasswordChar = '*';
             this.textBox4.Size = new System.Drawing.Size(268, 20);
             this.textBox4.TabIndex = 8;
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
@@ -192,6 +195,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(541, 418);
             this.pictureBox2.TabIndex = 14;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // Form3
             // 
